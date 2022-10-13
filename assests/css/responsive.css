@@ -1,0 +1,285 @@
+@media screen and (max-width:1240px) {
+    .common-color {
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        height: 370px;
+        border-bottom: solid 5px #fff;
+        margin-bottom: 35px;
+    }
+ 
+    footer { 
+        height: 900px;
+        
+    }
+    .footer-icons {
+        border: none;
+        width: 50%;
+    }
+    .backgroud {
+        width: 50%;
+    }
+
+    .color {
+        /* display: inline-block; */
+        width: 25%;
+        float: left;
+    }
+
+    .logo {
+        width: 55%;
+    }
+
+    .menu {
+        width: 45%;
+    }
+
+    .iconset { 
+        margin: 128px auto 0; 
+    }
+
+    .small-color1, .small-color2, .small-color3 {
+        margin-top: 0;
+    }
+
+    .color h3 {
+        margin-top: 30px;
+    }
+    
+    .color h2 {
+        margin-top: 50px;
+    }
+
+    .color-D3D3D3 h2 {
+        margin-top: 88px;
+    }
+
+    .color-D3D3D3 h3 {
+        margin-top: 70px;
+    }
+
+    .land-galereya {
+        width: 100%;
+        margin-left: 0px;
+     }
+
+}
+
+@media screen and (max-width:968px) {
+
+     .land-galereya {
+        width: 100%;
+        margin-left: 0px;
+     }
+
+     .speed {
+        margin-left: 0px;
+     }
+
+     .price {
+         display: none;
+     }
+
+     .color-D3D3D3, .color-FFFFFF {
+         display: none;
+     }
+
+     .color {
+        width: 33%;
+     }
+
+     .speed, .feature-landrover li{
+         display: none;
+     }
+     .details-landrover {
+        justify-content: center ;
+    }
+     .car-detail h2 {
+        font-size: 18px;
+        margin-left: 0;
+     }
+     .iconset {
+        margin: 0;
+     }
+     .land-rover {
+        min-height: 500px;
+    }
+    .car-detail {
+        display: block;
+    }
+    .car-detail img {
+        display: flex;
+        margin: auto;
+        width: 55%;
+    }
+    .car-detail h2 {
+        text-align: center;
+    }
+    .car-detail .car-information {
+        /* margin-left: 70px; */
+        margin-top: 15px;
+    }
+    .car-detail .about-car {
+        margin-top: 15px;
+    }
+    .carss {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .car-detail .car-information {
+        position: relative;
+        margin-left: 0;
+    }
+    .car-detail .about-car {
+        position: relative;
+        margin-left: 0;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .header {
+        display: block;
+    }
+    .menu {
+        margin-top: 20px;
+        width: 100%;
+    }
+    .header ul li {
+        margin-left: 0;
+    }
+    
+    .footer-icons {
+        display: none;
+    }
+    .background {
+        float: none;
+        display: flex;
+        margin: auto;
+    }
+    .background img { 
+        display: none;
+    }
+    .opocity {
+        margin-top: 100px;
+    }
+    .feb {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+    .background h2 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .price h3, h1 {
+        margin-top: 0;
+    }
+    .above {
+        display: none;
+    }
+    footer {
+        height: 560px;
+    }
+}
+
+@media screen and (max-width:666px) {
+    .car-detail {
+        display: inline-flex;
+    }
+
+    .details {
+        right: 2%;
+        margin-top: 225px;
+    }
+
+    .land-galereya img {
+        width: 80px;
+    }
+
+    .common-color {
+        width: 85%;
+    }
+
+    .color-31427A h2, .color-F67101 h2, .color-4F4F4F h2 {
+        margin-left: 112px;
+        margin-top: 60px;
+        font-size: 19px;
+    }
+
+    .details {
+        margin-top: 10px;
+    }
+    .common {
+        height: auto;
+    }
+  
+    .land-galereya img img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .land-rover {
+        min-height: 500px;
+    }
+    .car-detail {
+        display: block;
+    }
+    .car-detail img {
+        display: flex;
+        margin: auto;
+        width: 55%;
+    }
+    .car-detail h2 {
+        text-align: center;
+    }
+    .car-detail .car-information {
+        /* margin-left: 70px; */
+        margin-top: 15px;
+    }
+    .car-detail .about-car {
+        margin-top: 15px;
+    }
+    .carss {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .car-detail .car-information {
+        position: relative;
+        margin-left: 0;
+    }
+    .car-detail .about-car {
+        position: relative;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width:561px) {
+    .landrover-image {
+        flex-wrap: wrap; 
+        height: auto;
+    }
+    .landrover-image img {
+        display: inline;
+        margin: auto;
+    }
+    .color {
+        float: none;
+        margin-bottom: 10px;
+    }
+    .land-galereya {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:630px) {
+    .color {
+        float: none;
+        margin-bottom: 10px;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+}
